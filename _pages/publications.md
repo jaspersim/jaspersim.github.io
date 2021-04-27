@@ -4,7 +4,6 @@ author_profile: false
 
 ---
 
-# Publications
 
 ## Journal articles
 
