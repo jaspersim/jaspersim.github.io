@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "aloha"
+author_profile: true
 categories:
 - first
 tags:
