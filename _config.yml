@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jasper H. SIM"
 description              : ""
-url                      : #"http://jaspersim.github.io"
+url                      : "http://jaspersim.github.io"
 baseurl                  : #""
-repository               : #jaspersim/jaspersim.github.io
+repository               : jaspersim/jaspersim.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -119,10 +119,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/__jaspersim"
 
-#site header
-
-header:
-  image: "/assets/images/DSC09186.jpg"
 
 
 # Site Footer
@@ -147,15 +143,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-#sidebar
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 
 # Reading Files
 include:
