@@ -96,7 +96,7 @@ analytics:
 author:
   name             : #""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate at the University of Cambridge"
+  bio              : "PhD Candidate (Theoretical and Applied Linguistics) at the University of Cambridge"
   location         : "UK, SG"
   email            :
   links:
@@ -149,7 +149,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _config
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -270,6 +269,8 @@ compress_html:
   ignore:
     envs: development
 
+# to show future posts
+future: true
 
 # Defaults
 defaults:
