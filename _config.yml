@@ -20,7 +20,7 @@ title                    : "Jasper H. SIM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jasper H. SIM"
-description              : "An amazing websited."
+description              : "An amazing website."
 url                      : "http://jaspersim.github.io"
 baseurl                  : #""
 repository               : jaspersim/jaspersim.github.io
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Jasper SIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** persons."
+  bio              : "work in progress"
   location         : "United Kingdom, Singapore"
   email            :
   links:
