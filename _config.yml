@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jasper H. SIM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jasper H. SIM"
+name                     : "Jasper Hong SIM"
 description              : ""
 url                      : "http://jaspersim.github.io"
 baseurl                  : #""
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #""
+  name             : "Jasper SIM Hong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate (Theoretical and Applied Linguistics) <br/> <br/> <b>Phonetics Laboratory, Raised Faculty Building</b><br/><br/><b>Jesus College, University of Cambridge</b> "
   location         : "UK, SG"
