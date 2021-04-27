@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: posts
+author_profile: false
 
 ---
 
