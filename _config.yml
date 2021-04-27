@@ -20,10 +20,10 @@ title                    : "Jasper H. SIM"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jasper H. SIM"
-description              : "An amazing website."
-url                      : "http://jaspersim.github.io"
+description              : ""
+url                      : #"http://jaspersim.github.io"
 baseurl                  : #""
-repository               : jaspersim/jaspersim.github.io
+repository               : #jaspersim/jaspersim.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -61,7 +61,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : "Jasper Sim"
+  search_engine_id       : ""
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jasper SIM"
+  name             : #""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "work in progress"
-  location         : "United Kingdom, Singapore"
+  bio              : "PhD Candidate at the University of Cambridge"
+  location         : "UK, SG"
   email            :
   links:
     - label: "Email"
@@ -119,10 +119,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/__jaspersim"
 
-# site header
+#site header
 
 header:
-  image: /assets/images/DSC09186.jpg
+  image: "/assets/images/DSC09186.jpg"
+
 
 # Site Footer
 footer:
@@ -146,11 +147,21 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+#sidebar
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _config
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -223,7 +234,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -231,7 +242,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-include-cache
 
 
