@@ -31,6 +31,8 @@ Sim, J. H. (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Sin
 
 **Sim, J. H.** & Post, B. (2020, Jul 1–3). Variation in the development of English syllable-final /l/ in English-Malay and English-Chinese bilingual children [Oral presentation]. Building Linguistic Systems, York, United Kingdom. [https://sites.google.com/york.ac.uk/buildinglinguisticsystemsyork](https://sites.google.com/york.ac.uk/buildinglinguisticsystemsyork) [postponed]
 
+**Sim, J. H.** & Post, B. (2020, Apr). Maternal input and variability in the development of coda stops in bilingual children [Conference presentation]. British Association of Academic Phoneticians Colloquium, York, United Kingdom. [https://sites.google.com/york.ac.uk/baap2020york/home](https://sites.google.com/york.ac.uk/baap2020york/home) [cancelled]
+
 **Koh, S., Koh, L., Sim, J. H., Ng, K. & Mohan, J.** (2017, Jun 29). Exploring the Joy of Learning – from NASA to EL [Oral presentation]. 3rd Anglican High School National Symposium 2017: Assessment Drives the Learning Paradigm.
 
 ## Presentations and seminars
@@ -39,7 +41,7 @@ Sim, J. H. (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Sin
 
 Sim, J. H. (2021, May). The social life of L in Singapore English. To be presented at the Jesus College Language and Linguistics Forum.
 
-**Sim, J. H.** & Post, B. (2021, Apr). Maternal input and variability in the development of coda stops in bilingual children. British Association of Academic Phoneticians (online workshop)
+**Sim, J. H.** & Post, B. (2021, Apr). Maternal input and variability in the development of coda stops in bilingual children. British Association of Academic Phoneticians Work in Progress (online)
 
 Sim, J. H. (2021, April). Indexical properties of /l/ in Singapore English. Presented at the Aarhus University Phonetics and Phonology seminar.
 
