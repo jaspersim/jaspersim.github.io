@@ -47,10 +47,10 @@ Sim, J. H. (2021, Mar). Investigating coda stops in bilingual children. Presente
 
 Sim, J. H. (2020, Aug). Investigating variation in tonal scaling and alignment in young bilingual children. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
 
-Sim, J. H. (2019, Nov) Phonological acquisition of contact varieties of English in simultaneous bilinguals: variation in maternal input and effects on child phonological acquisition. Presented at the Jesus College Language and Linguistics Forum.
+Sim, J. H. (2019, Nov). Phonological acquisition of contact varieties of English in simultaneous bilinguals: variation in maternal input and effects on child phonological acquisition. Presented at the Jesus College Language and Linguistics Forum.
 
 Sim, J. H. (2019, Jan). Phonological acquisition of variable input: children in bi-dialectal homes. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
 
 Sim, J. H. (2018, Oct). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
 
-Sim, J. H. (2018, Oct). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
+Sim, J. H. (2015, May). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
