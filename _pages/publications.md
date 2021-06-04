@@ -23,7 +23,7 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 **Sim, J. H.** & Post, B. (2021, Jun 21-23). Variation in pitch scaling in English of young simultaneous bilinguals in Singapore. Phonetics and Phonology in Europe 2021, Barcelona. [https://pape2021.upf.edu/](https://pape2021.upf.edu/)
 
-Sim, J. H. (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Singapore English. Sociolinguistics Symposium 2021, Hong Kong. [https://www.ss23hk.com/](https://www.ss23hk.com/)
+**Sim, J. H.** (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Singapore English. Sociolinguistics Symposium 2021, Hong Kong. [https://www.ss23hk.com/](https://www.ss23hk.com/)
 
 **Sim, J. H.** & Post, B. (2021, Jun 2–4). Variation in ethnic-accentedness in child-directed speech of bilinguals. Variation in Language Acquisition 4, Rorschach, Switzerland. [https://www.shlr.ch/shlr/die-shlr/events/vila-4/](https://www.shlr.ch/shlr/die-shlr/events/vila-4/)
 
