@@ -21,6 +21,8 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 **(Presenting author in bold)**
 
+**Sim, J. H.** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](https://https://uklvc13.com/)
+
 **Sim, J. H.** & Post, B. (2021, Jun 21-23). Variation in pitch scaling in English of young simultaneous bilinguals in Singapore. Phonetics and Phonology in Europe 2021, Barcelona. [https://pape2021.upf.edu/](https://pape2021.upf.edu/)
 
 **Sim, J. H.** (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Singapore English. Sociolinguistics Symposium 2021, Hong Kong. [https://www.ss23hk.com/](https://www.ss23hk.com/)
