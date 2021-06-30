@@ -12,7 +12,7 @@ author_profile: false
 
 Sim, J. H. (submitted). _Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English._
 
-Sim, J. H. (in revision). _Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals._
+Sim, J. H. (accepted). _Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals._
 
 Sim, J. H. & Post, B. (accepted). _Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore._
 
