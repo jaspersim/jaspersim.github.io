@@ -12,9 +12,9 @@ author_profile: false
 
 Sim, J. H. (submitted). _Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English._
 
-Sim, J. H. (accepted). _Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals._
+Sim, J. H. (accepted). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_.
 
-Sim, J. H. & Post, B. (accepted). _Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore._
+Sim, J. H. & Post, B. (accepted). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_.
 
 Sim, J. H. (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) <br /> [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
@@ -23,7 +23,7 @@ groups of educated Malay speakers of Singapore English. Unpublished MPhil thesis
 
 Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
 
-## Conference papers
+## Conference papers without proceedings
 
 **(Presenting author in bold)**
 
