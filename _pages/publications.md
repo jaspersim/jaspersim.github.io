@@ -14,7 +14,7 @@ Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed 
 
 Sim, J. H. & Post, B. (in press). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[accepted manuscript]](/assets/documents/jcl_2021.pdf)
 
-Sim, J. H. (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) <br /> [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
+Sim, J. H. (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
 Sim, J. H. (2015). Language dominance and accent variation: a phonetic study of two
 groups of educated Malay speakers of Singapore English. Unpublished MPhil thesis. University of Cambridge.
