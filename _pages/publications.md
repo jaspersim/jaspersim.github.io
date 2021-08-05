@@ -12,7 +12,7 @@ author_profile: false
 
 Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://authors.elsevier.com/a/1dStKLixzo1UE) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
-Sim, J. H. & Post, B. (in press). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[accepted manuscript]](/assets/documents/jcl_2021.pdf) 
+Sim, J. H. & Post, B. (in press). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[accepted manuscript]](/assets/documents/jcl_2021.pdf)
 
 Sim, J. H. (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) <br /> [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
@@ -25,7 +25,8 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 **(Presenting author in bold)**
 
-**Sim, J. H.** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](https://https://uklvc13.com/)
+**Sim, J. H.** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](
+  https://uklvc13.com/)
 
 **Sim, J. H.** & Post, B. (2021, Jun 21-23). Variation in pitch scaling in English of young simultaneous bilinguals in Singapore. Phonetics and Phonology in Europe 2021, Barcelona. [https://pape2021.upf.edu/](https://pape2021.upf.edu/)
 
