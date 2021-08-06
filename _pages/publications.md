@@ -10,6 +10,8 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+Sim, J. H. (2021, preprint). Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English. 10.31219/osf.io/4jbdm. [[preprint]](https://osf.io/4jbdm/)
+
 Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://authors.elsevier.com/a/1dStKLixzo1UE) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
 Sim, J. H. & Post, B. (in press). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[accepted manuscript]](/assets/documents/jcl_2021.pdf)
