@@ -10,11 +10,11 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-Sim, J. H. (accepted). Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English. https://doi.org/10.31219/osf.io/4jbdm. [[preprint]](https://osf.io/4jbdm/)
+Sim, J. H. (in press). Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English. https://doi.org/10.31219/osf.io/4jbdm. [[preprint]](https://osf.io/4jbdm/)
 
 Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
-Sim, J. H. & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[OA paper]](/assets/documents/jcl_2021.pdf) 
+Sim, J. H. & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593. [[OA paper]](/assets/documents/jcl_2021.pdf)
 
 Sim, J. H. (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
@@ -25,9 +25,9 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 ## Conference papers without proceedings
 
-**(Presenting author in bold)**
+**\* Presenting author**
 
-**Schwarz, J.**, Li, K., Sim, J. H., Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2021). Speech Perception through Face Masks by Children and Adults. Cambridge Language Sciences Annual Symposium 2021: Language and Inclusion. [doi:10.33774/coe-2021-l88qk](https://www.cambridge.org/engage/coe/article-details/61814b93ad7f7c616f522eaa)
+Schwarz, J.\*, Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2021). Speech Perception through Face Masks by Children and Adults. Cambridge Language Sciences Annual Symposium 2021: Language and Inclusion. [doi:10.33774/coe-2021-l88qk](https://www.cambridge.org/engage/coe/article-details/61814b93ad7f7c616f522eaa)
 
 **Sim, J. H.** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](
   https://uklvc13.com/)
