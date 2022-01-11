@@ -10,7 +10,7 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-Sim, J. H. (in press). Negotiating social meanings in a plural society: social perceptions of variants of /l/ in Singapore English. https://doi.org/10.31219/osf.io/4jbdm. [[preprint]](https://osf.io/4jbdm/)
+Sim, J. H. (in press). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. _Language in Society_ [[preprint]](https://osf.io/4jbdm/) [[accepted manuscript]](/assets/documents/langsoc_2022_accepted.pdf)
 
 Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
