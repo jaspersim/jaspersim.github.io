@@ -27,7 +27,7 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 **\* Presenting author**
 
-Schwarz, J.*, Li, K.*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, 4–8 Apr). Can we use visual, acoustic and semantic cues to compensate for face mask speech? [Paper presentation]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
+Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, 4–8 Apr). Can we use visual, acoustic and semantic cues to compensate for face mask speech? [Paper presentation]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
 
 **Sim, J. H.\*** & Post, B. (2022, 4–8 Apr). Acquiring /l/ in a multidialectal context by English-Malay bilingual children in Singapore [Poster session]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
 
