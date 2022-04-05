@@ -10,6 +10,10 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+Schwarz, J., Li, K., Sim, J. H., Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (under review) Semantic cues modulate children's and adults' processing of audio-visual face mask speech. 
+
+Sim, J. H. & Post, B. (under review). Bilingual phonological acquisition in a multi(dia)lectal context: acquisition of /l/ by English-Malay bilingual children in Singapore.
+
 Sim, J. H. (in press). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. _Language in Society_ [[preprint]](https://osf.io/4jbdm/) [[accepted manuscript]](/assets/documents/langsoc_2022_accepted.pdf)
 
 Sim, J. H. (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
@@ -27,30 +31,34 @@ Sim, J. H. (2014). A Feature-based Study of English Trainee Teachers' Treatment 
 
 **\* Presenting author**
 
+Li, K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, 23–25 June). Recording and timing vocal responses: an online cued-shadowing task [Paper presentation]. LabPhon18: Phonology in a Rapidly Changing World.
+
+**Sim, J. H.\*** (2022, 23–25 June). Bilingual phonological development in a multi-dialectal context: the acquisition of /l/ by English-Malay bilingual preschoolers in Singapore [Poster session]. LabPhon18: Phonology in a Rapidly Changing World.
+
+**Sim, J. H.\*** & Post, B. (2022, 14–16 June). Variation in the development of English syllable-final /l/ in English-Malay and English-Chinese bilingual children [Paper presentation]. Building Linguistic Systems, York, United Kingdom.
+
 Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, 4–8 Apr). Can we use visual, acoustic and semantic cues to compensate for face mask speech? [Paper presentation]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
 
 **Sim, J. H.\*** & Post, B. (2022, 4–8 Apr). Acquiring /l/ in a multidialectal context by English-Malay bilingual children in Singapore [Poster session]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
 
-Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, Jan 20-21). The impact of visual, acoustic, and semantic cues on processing of face mask speech by children and adults. 13th Speech in Noise Workshop.
+Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, Jan 20-21). The impact of visual, acoustic, and semantic cues on processing of face mask speech by children and adults [Poster session]. 13th Speech in Noise Workshop.
 
-Schwarz, J.\*, Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2021, Nov 23). Speech Perception through Face Masks by Children and Adults. Cambridge Language Sciences Annual Symposium 2021: Language and Inclusion. [doi:10.33774/coe-2021-l88qk](https://www.cambridge.org/engage/coe/article-details/61814b93ad7f7c616f522eaa)
+Schwarz, J.\*, Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2021, Nov 23). Speech Perception through Face Masks by Children and Adults Poster session]. Cambridge Language Sciences Annual Symposium 2021: Language and Inclusion. [doi:10.33774/coe-2021-l88qk](https://www.cambridge.org/engage/coe/article-details/61814b93ad7f7c616f522eaa)
 
-**Sim, J. H.\*** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](
+**Sim, J. H.\*** & Post, B. (2021, Sept 8-10). Clear /l/ and the Malays in Singapore: origin, social meanings, and ethnic identity [Paper presentation]. UK Language Variation and Change 13. University of Glasgow. [https://https://uklvc13.com/](
   https://uklvc13.com/)
 
-**Sim, J. H.\*** & Post, B. (2021, Jun 21-23). Variation in pitch scaling in English of young simultaneous bilinguals in Singapore. Phonetics and Phonology in Europe 2021, Barcelona. [https://pape2021.upf.edu/](https://pape2021.upf.edu/)
+**Sim, J. H.\*** & Post, B. (2021, Jun 21-23). Variation in pitch scaling in English of young simultaneous bilinguals in Singapore [Poster session]. Phonetics and Phonology in Europe 2021, Barcelona. [https://pape2021.upf.edu/](https://pape2021.upf.edu/)
 
-**Sim, J. H.\*** (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Singapore English. Sociolinguistics Symposium 2021, Hong Kong. [https://www.ss23hk.com/](https://www.ss23hk.com/)
+**Sim, J. H.\*** (2021, Jun 7–10). Indexical properties of syllable-final /l/ in Singapore English [Paper presentation]. Sociolinguistics Symposium 2021, Hong Kong. [https://www.ss23hk.com/](https://www.ss23hk.com/)
 
-**Sim, J. H.\*** & Post, B. (2021, Jun 2–4). Variation in ethnic-accentedness in child-directed speech of bilinguals. Variation in Language Acquisition 4, Rorschach, Switzerland. [https://www.shlr.ch/shlr/die-shlr/events/vila-4/](https://www.shlr.ch/shlr/die-shlr/events/vila-4/)
+**Sim, J. H.\*** & Post, B. (2021, Jun 2–4). Variation in ethnic-accentedness in child-directed speech of bilinguals [Paper presentation]. Variation in Language Acquisition 4, Rorschach, Switzerland. [https://www.shlr.ch/shlr/die-shlr/events/vila-4/](https://www.shlr.ch/shlr/die-shlr/events/vila-4/)
 
-**Sim, J. H.\*** & Post, B. (2021, Mar 6). Variation in quality of input and development of coda stops in bilingual children. Jesus College MCR Graduate Conference 2021, Cambridge.
-
-**Sim, J. H.\*** & Post, B. (2020, Jul 1–3). Variation in the development of English syllable-final /l/ in English-Malay and English-Chinese bilingual children [Oral presentation]. Building Linguistic Systems, York, United Kingdom. [https://sites.google.com/york.ac.uk/buildinglinguisticsystemsyork](https://sites.google.com/york.ac.uk/buildinglinguisticsystemsyork) [postponed]
+**Sim, J. H.\*** & Post, B. (2021, Mar 6). Variation in quality of input and development of coda stops in bilingual children [Poster session]. Jesus College MCR Graduate Conference 2021, Cambridge.
 
 **Sim, J. H.\*** & Post, B. (2020, Apr). Maternal input and variability in the development of coda stops in bilingual children [Conference presentation]. British Association of Academic Phoneticians Colloquium, York, United Kingdom. [https://sites.google.com/york.ac.uk/baap2020york/home](https://sites.google.com/york.ac.uk/baap2020york/home) [cancelled]
 
-Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). Exploring the Joy of Learning – from NASA to EL [Oral presentation]. 3rd Anglican High School National Symposium 2017: Assessment Drives the Learning Paradigm.
+Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). Exploring the Joy of Learning – from NASA to EL [Paper presentation]. 3rd Anglican High School National Symposium 2017: Assessment Drives the Learning Paradigm.
 
 ## Presentations and seminars
 
