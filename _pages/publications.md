@@ -10,9 +10,9 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (under review) Semantic cues modulate children's and adults' processing of audio-visual face mask speech.
+Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (accepted). Semantic cues modulate children's and adults' processing of audio-visual face mask speech.
 
-**Sim, J. H.** & Post, B. (under review). Bilingual phonological acquisition in a multi(dia)lectal context: acquisition of /l/ by English-Malay bilingual children in Singapore.
+**Sim, J. H.** & Post, B. (in revision). Bilingual phonological acquisition in a multi(dia)lectal context: acquisition of /l/ by English-Malay bilingual children in Singapore.
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[paper]](https://doi.org/10.1017/S0047404522000173) [[OA paper]](/assets/documents/langsoc_2022.pdf)
 
