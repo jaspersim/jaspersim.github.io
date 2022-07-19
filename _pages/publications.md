@@ -9,7 +9,7 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. https://doi.org/10.3389/fpsyg.2022.879156
+Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[paper]](https://doi.org/10.1017/S0047404522000173) [[OA paper]](/assets/documents/langsoc_2022.pdf)
 
