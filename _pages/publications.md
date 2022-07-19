@@ -5,14 +5,11 @@ author_profile: false
 
 ---
 
-
 ## Papers
 
 (Please contact me for papers not available here.)
 
-Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (accepted). Semantic cues modulate children's and adults' processing of audio-visual face mask speech.
-
-**Sim, J. H.** & Post, B. (in revision). Bilingual phonological acquisition in a multi(dia)lectal context: acquisition of /l/ by English-Malay bilingual children in Singapore.
+Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. https://doi.org/10.3389/fpsyg.2022.879156
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[paper]](https://doi.org/10.1017/S0047404522000173) [[OA paper]](/assets/documents/langsoc_2022.pdf)
 
@@ -26,6 +23,10 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 groups of educated Malay speakers of Singapore English. Unpublished MPhil thesis. University of Cambridge.
 
 **Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
+
+## PhD thesis
+
+**Sim, J. H.** (2022). _Phonological acquisition in a multidialectal and multicultural context: The case of bilingual preschoolers in Singapore_ [Unpublished PhD Thesis]. University of Cambridge. https://doi.org/10.17863/CAM.86480
 
 ## Conference papers without proceedings
 
@@ -81,3 +82,7 @@ Sim, J. H. (2019, Jan). Phonological acquisition of variable input: children in 
 Sim, J. H. (2018, Oct). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
 
 Sim, J. H. (2015, May). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
+
+## Work in progress
+
+**Sim, J. H.** & Post, B. (in revision). Bilingual phonological acquisition in a multi(dia)lectal context: acquisition of /l/ by English-Malay bilingual children in Singapore.
