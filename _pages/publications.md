@@ -26,7 +26,7 @@ groups of educated Malay speakers of Singapore English. Unpublished MPhil thesis
 
 ## PhD thesis
 
-**Sim, J. H.** (2022). _Phonological acquisition in a multidialectal and multicultural context: The case of bilingual preschoolers in Singapore_ [Unpublished PhD Thesis]. University of Cambridge. https://doi.org/10.17863/CAM.86480
+**Sim, J. H.** (2022). _Phonological acquisition in a multidialectal and multicultural context: The case of bilingual preschoolers in Singapore_ [Unpublished PhD Thesis]. University of Cambridge. https://doi.org/10.17863/CAM.86480 [[thesis]](https://doi.org/10.17863/CAM.86480)
 
 ## Conference papers without proceedings
 
