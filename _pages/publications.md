@@ -9,7 +9,7 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_ https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
+Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[paper]](https://doi.org/10.1017/S0047404522000173) [[OA paper]](/assets/documents/langsoc_2022.pdf)
 
@@ -19,14 +19,15 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 
 **Sim, J. H.** (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
-**Sim, J. H.** (2015). Language dominance and accent variation: a phonetic study of two
-groups of educated Malay speakers of Singapore English. Unpublished MPhil thesis. University of Cambridge.
-
 **Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
 
-## PhD thesis
+## Unpublished theses
 
 **Sim, J. H.** (2022). _Phonological acquisition in a multidialectal and multicultural context: The case of bilingual preschoolers in Singapore_ [Unpublished PhD Thesis]. University of Cambridge. https://doi.org/10.17863/CAM.86480 [[thesis]](https://doi.org/10.17863/CAM.86480)
+
+**Sim, J. H.** (2015). Language dominance and accent variation: a phonetic study of two
+groups of educated Malay speakers of Singapore English. [Unpublished MPhil Thesis]. University of Cambridge.
+
 
 ## Conference proceedings
 
@@ -69,11 +70,11 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 
 ## Presentations and seminars
 
-**(Presenting author in bold)**
+**\* Presenting author**
 
 Sim, J. H. (2021, May). The social life of L in Singapore English. Presented at the Jesus College Language and Linguistics Forum.
 
-**Sim, J. H.** & Post, B. (2021, Apr). Maternal input and variability in the development of coda stops in bilingual children. British Association of Academic Phoneticians Work in Progress (online)
+Sim, J. H.\* & Post, B. (2021, Apr). Maternal input and variability in the development of coda stops in bilingual children. British Association of Academic Phoneticians Work in Progress (online)
 
 Sim, J. H. (2021, April). Indexical properties of /l/ in Singapore English. Presented at the Aarhus University Phonetics and Phonology seminar.
 
