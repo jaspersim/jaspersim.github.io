@@ -6,7 +6,7 @@ author_profile: false
 
 Hello there!
 
-I'm a linguist, and I'm interested in social variation in language and language acquisition. My current research projects focus on issues that sit at the intersection of sociolinguistics, phonetics and child language acquisition.
+I'm a linguist, and I'm interested in social variation in language and language acquisition. My current research projects focus on issues that sit at the intersection of sociolinguistics, phonetics, and child language acquisition. 
 
 **Here are some of my academic interests**
 
@@ -19,7 +19,7 @@ I'm a linguist, and I'm interested in social variation in language and language 
 
 **Where I've been**
 
-I completed a BA (Hons) in Education at the National Institute of Education, Nanyang Technological University, Singapore, and went on to obtain an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, under the supervision of Prof. Francis Nolan. After which, I worked for the Ministry of Education for three years, first as a secondary school teacher, and then as a Curriculum Planning Officer at ministry headquarters. I recently completed a PhD in Theoretical and Applied Linguistics at the University of Cambridge under the supervision of [Prof. Brechtje Post](https://www.mmll.cam.ac.uk/professor-brechtje-post).
+I completed a BA (Hons) in Education at the National Institute of Education, Nanyang Technological University, Singapore, and went on to obtain an MPhil in Theoretical and Applied Linguistics from the University of Cambridge, under the supervision of Prof. Francis Nolan. After which, I worked for the Ministry of Education for three years, first as a secondary school teacher, and then as a Curriculum Planning Officer at ministry headquarters. I recently completed a PhD in Theoretical and Applied Linguistics at the University of Cambridge under the supervision of [Prof. Brechtje Post](https://www.mmll.cam.ac.uk/professor-brechtje-post). Here's my PhD thesis: [[thesis]](https://doi.org/10.17863/CAM.86480)
 
 This is a picture of me enjoying a watermelon.
 
