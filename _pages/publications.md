@@ -9,10 +9,8 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-<<<<<<< HEAD
+**Sim, J. H.** & Post, B. (forthcoming). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. To appear in Journal of Child Language. [[accepted manuscript]](/assets/documents/aclofl.pdf)
 
-=======
->>>>>>> parent of 1293f39b (updated cv and main page)
 Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
@@ -24,6 +22,12 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 **Sim, J. H.** (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
 **Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
+
+
+## Book chapters
+
+**Sim, J. H.** & Post, B. (forthcoming). Early phonological acquisition in multi-accent contexts. In E. Babatsouli (Ed.), _Multilingual acquisition and learning: Towards an ecosystemic view to diversity_. John Benjamins Publishing Company.
+
 
 ## Unpublished theses
 
@@ -38,6 +42,9 @@ groups of educated Malay speakers of Singapore English. [Unpublished MPhil Thesi
 **\* Presenting author**
 
 Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, 18–22 Sept). Recording and timing vocal responses in online experimentation [Paper presentation]. _Proc. Interspeech 2022_, 4053-4057, doi: 10.21437/Interspeech.2022-10697 [[paper]](/assets/documents/10697_Paper.pdf)
+
+**\*Sim, J. H.\*** (2023, 7–11 Aug). _Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore_ [Oral presentation]. To be presented at 20th International Congress of Phonetic Sciences ICPhS 2023.
+
 
 ## Conference papers without proceedings
 
@@ -73,6 +80,7 @@ Schwarz, J.\*, Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B.
 
 Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). Exploring the Joy of Learning – from NASA to EL [Oral presentation]. 3rd Anglican High School National Symposium 2017: Assessment Drives the Learning Paradigm.
 
+
 ## Presentations and seminars
 
 **\* Presenting author**
@@ -100,7 +108,7 @@ Sim, J. H. (2018, Oct). Language dominance and accent variation: a phonetic stud
 
 Sim, J. H. (2015, May). Language dominance and accent variation: a phonetic study of two groups of educated Malay speakers of Singapore English. Presented at the Experimental Phonetics and Phonology seminar, University of Cambridge.
 
+
 ## Work in progress
 
-- Influence of caregiver input and language experience on lateral acquisition in preschoolers
 - Variation in stop voicing contrast in Singaporean caregivers and their preschoolers
