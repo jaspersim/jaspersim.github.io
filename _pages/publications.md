@@ -9,7 +9,10 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 1293f39b (updated cv and main page)
 Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
 **Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
@@ -22,10 +25,6 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 
 **Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
 
-## Book chapters
-
-**Sim, J. H.**, & Post, B. (forthcoming). Early phonological acquisition in multi-accent contexts. In E. Babatsouli (Ed.), _Multilingual acquisition and learning: Towards an ecosystemic view to diversity_. John Benjamins Publishing Company.
-
 ## Unpublished theses
 
 **Sim, J. H.** (2022). _Phonological acquisition in a multidialectal and multicultural context: The case of bilingual preschoolers in Singapore_ [Unpublished PhD Thesis]. University of Cambridge. https://doi.org/10.17863/CAM.86480 [[thesis]](https://doi.org/10.17863/CAM.86480)
@@ -37,8 +36,6 @@ groups of educated Malay speakers of Singapore English. [Unpublished MPhil Thesi
 ## Conference proceedings
 
 **\* Presenting author**
-
-**Sim, J. H.\*** (2023, 7–11 Aug). Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore [Oral presentation]. _20th International Congress of Phonetic Sciences_ (ICPhS 2023).
 
 Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, 18–22 Sept). Recording and timing vocal responses in online experimentation [Paper presentation]. _Proc. Interspeech 2022_, 4053-4057, doi: 10.21437/Interspeech.2022-10697 [[paper]](/assets/documents/10697_Paper.pdf)
 
@@ -105,5 +102,5 @@ Sim, J. H. (2015, May). Language dominance and accent variation: a phonetic stud
 
 ## Work in progress
 
-
+- Influence of caregiver input and language experience on lateral acquisition in preschoolers
 - Variation in stop voicing contrast in Singaporean caregivers and their preschoolers
