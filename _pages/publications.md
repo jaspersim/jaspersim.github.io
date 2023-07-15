@@ -17,11 +17,11 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 
 **Sim, J. H.** (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
-**Sim, J. H.** & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. FirstView. _Journal of Child Language_. https://doi.org/10.1017/S0305000921000593 [[OA paper]](https://doi.org/10.1017/S0305000921000593)
+**Sim, J. H.** & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. FirstView. _Journal of Child Language_, _49_(6), 1147–1172. https://doi.org/10.1017/S0305000921000593 [[OA paper]](https://doi.org/10.1017/S0305000921000593)
 
-**Sim, J. H.** (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, 40(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
+**Sim, J. H.** (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, _40_(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
-**Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, 7(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
+**Sim, J. H.** (2014). A Feature-based Study of English Trainee Teachers' Treatment of Singapore English. _Reinvention: An International Journal of Undergraduate Research_, _7_(1). [[paper]](http://www.warwick.ac.uk/reinventionjournal/archive/volume7issue1/hong)
 
 
 ## Book chapters
@@ -85,6 +85,8 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 
 **\* Presenting author**
 
+
+Sim, J. H. (2023, 23 June). Child phonological acquisition in multi-accent Singapore. Presented at the Department of Linguistics, Queen Mary University of London, United Kingdom.
 
 Sim, J. H. (2023, March). Child Phonological Acquisition in Multi-Accent Singapore: Influence of Caregiver Input and Language Experience. The Future of Singapore English: Languages of Singapore, National Library Board.
 
