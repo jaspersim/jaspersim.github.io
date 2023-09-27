@@ -43,12 +43,14 @@ groups of educated Malay speakers of Singapore English. [Unpublished MPhil Thesi
 
 Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, 18–22 Sept). Recording and timing vocal responses in online experimentation [Paper presentation]. _Proc. Interspeech 2022_, 4053-4057, doi: 10.21437/Interspeech.2022-10697 [[paper]](/assets/documents/10697_Paper.pdf)
 
-**Sim, J. H.\*** (2023, 7–11 Aug). _Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore_ [Oral presentation]. 20th International Congress of Phonetic Sciences ICPhS 2023, Prague. [[paper]](/assets/documents/icphs2023.pdf)
+**Sim, J. H.\*** (2023, 7–11 Aug). Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore [Oral presentation]. _Proceedings of the 20th International Congress of Phonetic Sciences_, 2344–2348. Guarant International. [[paper]](/assets/documents/icphs2023.pdf)
 
 
 ## Conference papers without proceedings
 
 **\* Presenting author**
+
+Chong, A., **Sim, J. H.\*** & Post, B. (2023, 18-21 Nov). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. To be presented at Second International Conference on Tone and Intonation (TAI2).
 
 **Sim, J. H.\*** (2023, 26–28 June). _Variation in English stop voicing contrast in Singaporean Chinese and Malay mothers_ [Oral presentation]. UK Language Variation and Change 14.
 
@@ -85,6 +87,7 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 
 **\* Presenting author**
 
+Sim, J. H. (2023, 9 Nov). Early phonological acquisition in multi-accent contexts. To be presented at National Yang Ming Chiao Tung University (NYCU) Phon Brown Bag series.
 
 Sim, J. H. (2023, 23 June). Child phonological acquisition in multi-accent Singapore. Presented at the Department of Linguistics, Queen Mary University of London, United Kingdom.
 
