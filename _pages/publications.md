@@ -26,7 +26,8 @@ Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., 
 
 ## Book chapters
 
-**Sim, J. H.** & Post, B. (forthcoming). Early phonological acquisition in multi-accent contexts. In E. Babatsouli (Ed.), _Multilingual acquisition and learning: Towards an ecosystemic view to diversity_. John Benjamins Publishing Company.
+**Sim, J. H.** & Post, B. (2024). Early phonological acquisition in multi-accent contexts. In E. Babatsouli (Ed.), _Multilingual acquisition and learning: Towards an ecosystemic view to diversity_. John Benjamins Publishing Company.[[Accepted manuscript]](/assets/documents/elena_2024.pdf) [[Chapter]](https://benjamins.com/catalog/sibil.67.07sim)
+
 
 
 ## Unpublished theses
@@ -49,6 +50,8 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 ## Conference papers without proceedings
 
 **\* Presenting author**
+
+Chong, A. J.\*, **Sim, J. H.**, Post, B. (2024, 25-27 Mar). _Ethnicity-related intonational variation in Singapore English child-directed speech_ [Oral presentation]. Presented at the British Association of Academic Phoneticians Colloquium 2024, Cardiff, United Kingdom.
 
 Chong, A., **Sim, J. H.\*** & Post, B. (2023, 18-21 Nov). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. To be presented at Second International Conference on Tone and Intonation (TAI2).
 
@@ -87,7 +90,15 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 
 **\* Presenting author**
 
-Sim, J. H. (2023, 9 Nov). Early phonological acquisition in multi-accent contexts. To be presented at National Yang Ming Chiao Tung University (NYCU) Phon Brown Bag series.
+Sim, J. H. (2024, 20 June). Variation in caregiver input and variable outcomes in early phonological acquisition of Singapore English. To be presented online at the Multilingualism, language contact, language variation colloquium, Humboldt University, Berlin.
+
+Sim, J. H. (2024, 23 April). Factors predicting variable outcomes in phonological acquisition. Presented online at the LML Research Seminar series, The Education University of Hong Kong.
+
+Sim, J. H. (2024, 12 April). Phonological acquisition in multi-accent Singapore. Presented at the Linguistics and Multilingual Studies TGIF seminar series, NTU Singapore.
+
+Sim, J. H. (2023, 29 Nov). Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore. Presented online at the LangVIEW seminar.
+
+Sim, J. H. (2023, 9 Nov). Early phonological acquisition in multi-accent contexts. Presented at National Yang Ming Chiao Tung University (NYCU) Phon Brown Bag series.
 
 Sim, J. H. (2023, 23 June). Child phonological acquisition in multi-accent Singapore. Presented at the Department of Linguistics, Queen Mary University of London, United Kingdom.
 
