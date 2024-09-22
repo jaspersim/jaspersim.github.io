@@ -9,6 +9,8 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+**Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
+
 **Sim, J. H.** & Post, B. (2023). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. FirstView. _Journal of Child Language_. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
 
 Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
@@ -51,9 +53,13 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 
 **\* Presenting author**
 
-Chong, A. J.\*, **Sim, J. H.**, Post, B. (2024, 25-27 Mar). _Ethnicity-related intonational variation in Singapore English child-directed speech_ [Oral presentation]. Presented at the British Association of Academic Phoneticians Colloquium 2024, Cardiff, United Kingdom.
+**Sim, J. H.** (2024, August). _Child phonological acquisition in Singapore — Variation in the input and input effects_. [Oral presentation] AILA2024, Kuala Lumpur, Malaysia.
 
-Chong, A., **Sim, J. H.\*** & Post, B. (2023, 18-21 Nov). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. To be presented at Second International Conference on Tone and Intonation (TAI2).
+**Sim, J. H.** & Post, B. (2024, 16 July). _Modelling individual differences: English /l/ of English-Malay bilinguals in multi-accent Singapore._ [Poster presentation]. 16th International Congress for the Study of Child Language, Prague, Czech Republic.
+
+Chong, A. J.\*, **Sim, J. H.**, Post, B. (2024, 25-27 Mar). _Ethnicity-related intonational variation in Singapore English child-directed speech_ [Oral presentation]. British Association of Academic Phoneticians Colloquium 2024, Cardiff, United Kingdom.
+
+Chong, A., **Sim, J. H.\*** & Post, B. (2023, 18-21 Nov). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. Second International Conference on Tone and Intonation (TAI2).
 
 **Sim, J. H.\*** (2023, 26–28 June). _Variation in English stop voicing contrast in Singaporean Chinese and Malay mothers_ [Oral presentation]. UK Language Variation and Change 14.
 
@@ -90,7 +96,9 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 
 **\* Presenting author**
 
-Sim, J. H. (2024, 20 June). Variation in caregiver input and variable outcomes in early phonological acquisition of Singapore English. To be presented online at the Multilingualism, language contact, language variation colloquium, Humboldt University, Berlin.
+Sim, J. H. (2024, 6 September). Acquiring and processing multi-accent Singapore. Presented at the Interdisciplinary Workshop on Multilingualism and Multiculturalism (IWMM), Singapore.
+
+Sim, J. H. (2024, 20 June). Variation in caregiver input and variable outcomes in early phonological acquisition of Singapore English. Presented online at the Multilingualism, language contact, language variation colloquium, Humboldt University, Berlin.
 
 Sim, J. H. (2024, 23 April). Factors predicting variable outcomes in phonological acquisition. Presented online at the LML Research Seminar series, The Education University of Hong Kong.
 
