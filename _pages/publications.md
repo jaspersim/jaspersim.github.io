@@ -53,25 +53,27 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 
 **\* Presenting author**
 
-**Sim, J. H.** (2024, August). _Child phonological acquisition in Singapore — Variation in the input and input effects_. [Oral presentation] AILA2024, Kuala Lumpur, Malaysia.
+**Sim, J. H.\***, Schwarz, J., Li, K. K., Chong, A. J. (2025, May 16-18). _Ethnic variation in perceptual sensitivity to stress-based f0 in Singapore English_. [Poster session]. The 3rd International Conference on Tone and Intonation, Herrsching, Germany.
 
-**Sim, J. H.** & Post, B. (2024, 16 July). _Modelling individual differences: English /l/ of English-Malay bilinguals in multi-accent Singapore._ [Poster presentation]. 16th International Congress for the Study of Child Language, Prague, Czech Republic.
+**Sim, J. H.** (2024, Aug 11-16). _Child phonological acquisition in Singapore — Variation in the input and input effects_. [Oral presentation]. AILA2024, Kuala Lumpur, Malaysia.
 
-Chong, A. J.\*, **Sim, J. H.**, Post, B. (2024, 25-27 Mar). _Ethnicity-related intonational variation in Singapore English child-directed speech_ [Oral presentation]. British Association of Academic Phoneticians Colloquium 2024, Cardiff, United Kingdom.
+**Sim, J. H.** & Post, B. (2024, July 15-19). _Modelling individual differences: English /l/ of English-Malay bilinguals in multi-accent Singapore._ [Poster presentation]. 16th International Congress for the Study of Child Language, Prague, Czech Republic.
 
-Chong, A., **Sim, J. H.\*** & Post, B. (2023, 18-21 Nov). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. Second International Conference on Tone and Intonation (TAI2).
+Chong, A. J.\*, **Sim, J. H.**, Post, B. (2024, Mar 25-27). _Ethnicity-related intonational variation in Singapore English child-directed speech_ [Oral presentation]. British Association of Academic Phoneticians Colloquium 2024, Cardiff, United Kingdom.
 
-**Sim, J. H.\*** (2023, 26–28 June). _Variation in English stop voicing contrast in Singaporean Chinese and Malay mothers_ [Oral presentation]. UK Language Variation and Change 14.
+Chong, A., **Sim, J. H.\*** & Post, B. (2023, Nov 18-21). _Ethnicity and intonational variation in Singapore English child-directed speech_ [Oral presentation]. Second International Conference on Tone and Intonation (TAI2).
 
-Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, 23–25 June). _Recording and timing vocal responses: an online cued-shadowing task_ [Paper presentation]. LabPhon18: Phonology in a Rapidly Changing World.
+**Sim, J. H.\*** (2023, June 26–28). _Variation in English stop voicing contrast in Singaporean Chinese and Malay mothers_ [Oral presentation]. UK Language Variation and Change 14.
 
-**Sim, J. H.\*** (2022, 23–25 June). _Bilingual phonological development in a multi-dialectal context: the acquisition of /l/ by English-Malay bilingual preschoolers in Singapore_ [Poster session]. LabPhon18: Phonology in a Rapidly Changing World.
+Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, June 23–25). _Recording and timing vocal responses: an online cued-shadowing task_ [Paper presentation]. LabPhon18: Phonology in a Rapidly Changing World.
 
-**Sim, J. H.\*** & Post, B. (2022, 14–16 June). _Variation in the development of English syllable-final /l/ in English-Malay and English-Chinese bilingual children_ [Oral presentation]. Building Linguistic Systems, York, United Kingdom.
+**Sim, J. H.\*** (2022, June 23–25). _Bilingual phonological development in a multi-dialectal context: the acquisition of /l/ by English-Malay bilingual preschoolers in Singapore_ [Poster session]. LabPhon18: Phonology in a Rapidly Changing World.
 
-Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, 4–8 Apr). _Can we use visual, acoustic and semantic cues to compensate for face mask speech?_ [Oral presentation]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
+**Sim, J. H.\*** & Post, B. (2022, June 14–16). _Variation in the development of English syllable-final /l/ in English-Malay and English-Chinese bilingual children_ [Oral presentation]. Building Linguistic Systems, York, United Kingdom.
 
-**Sim, J. H.\*** & Post, B. (2022, 4–8 Apr). _Acquiring /l/ in a multidialectal context by English-Malay bilingual children in Singapore_ [Poster session]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
+Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, Apr 4–8). _Can we use visual, acoustic and semantic cues to compensate for face mask speech?_ [Oral presentation]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
+
+**Sim, J. H.\*** & Post, B. (2022, Apr 4–8). _Acquiring /l/ in a multidialectal context by English-Malay bilingual children in Singapore_ [Poster session]. British Association of Academic Phoneticians Colloquium 2022, York, United Kingdom.
 
 Schwarz, J.\*, Li, K.\*, **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., . . . McDougall, K. (2022, Jan 20-21). _The impact of visual, acoustic, and semantic cues on processing of face mask speech by children and adults_ [Poster session]. 13th Speech in Noise Workshop.
 
@@ -95,6 +97,8 @@ Koh, S.\*, Koh, L.\*, **Sim, J. H.**\*, Ng, K.\* & Mohan, J.\* (2017, Jun 29). E
 ## Presentations and seminars
 
 **\* Presenting author**
+
+Sim, J. H. (2025, 22 May). Perceiving lexical stress in Singapore English: The role of f0 cues and bilingual background. Presented in-person at the Multilingualism, language contact, language variation colloquium, Humboldt University, Berlin.
 
 Sim, J. H. (2024, 6 September). Acquiring and processing multi-accent Singapore. Presented at the Interdisciplinary Workshop on Multilingualism and Multiculturalism (IWMM), Singapore.
 
