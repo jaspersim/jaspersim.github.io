@@ -9,6 +9,8 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+**Sim, J. H.** * Post, B. (accepted). Systematicity in variability: English coda laterals of English-Malay bilinguals in multi-accent Singapore. _Language and Speech_. [[accepted manuscript]](/assets/documents/l&s_2025.pdf)
+
 **Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
 
 **Sim, J. H.** & Post, B. (2023). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. FirstView. _Journal of Child Language_. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
