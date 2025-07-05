@@ -55,6 +55,8 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 
 **\* Presenting author**
 
+**Sim, J. H.\***, Schwarz, J., Li, K. K., Chong, A\*. (2025, June, 25-27). _Perceptual sensitivity to stress-based f0 in Singapore English_. [Oral presentation]. 6th Phonetics and Phonology in Europe (PAPE2025), Palma, Spain.
+
 **Sim, J. H.\***, Schwarz, J., Li, K. K., Chong, A. J. (2025, May 16-18). _Ethnic variation in perceptual sensitivity to stress-based f0 in Singapore English_. [Poster session]. The 3rd International Conference on Tone and Intonation, Herrsching, Germany.
 
 **Sim, J. H.** (2024, Aug 11-16). _Child phonological acquisition in Singapore — Variation in the input and input effects_. [Oral presentation]. AILA2024, Kuala Lumpur, Malaysia.
