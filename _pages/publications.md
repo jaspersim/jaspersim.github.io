@@ -9,7 +9,7 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
-**Sim, J. H.** & Post, B. (accepted). Systematicity in variability: English coda laterals of English-Malay bilinguals in multi-accent Singapore. _To appear in Language and Speech_. [[accepted manuscript]](/assets/documents/l&s_2025.pdf)
+**Sim, J. H.** & Post, B. (in press). Systematicity in variability: English coda laterals of English-Malay bilinguals in multi-accent Singapore. _To appear in Language and Speech_. [[accepted manuscript]](/assets/documents/l&s_2025.pdf)
 
 **Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
 
@@ -54,6 +54,14 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 ## Conference papers without proceedings
 
 **\* Presenting author**
+
+Li, N.\*, & **Sim, J. H.** (2025, August 4-7). Variable subject expression in heritage Vietnamese [Oral presentation]. New Ways of Analysing Variation – Asia Pacific 8, Singapore.
+
+**Sim, J. H.\***, & Jia Y. (2025, August, 4-7). Variation in English stop voicing contrast in Singaporean Chinese and Malay bilingual preschoolers [Oral presentation]. New Ways of Analysing Variation – Asia Pacific 8, Singapore.
+
+Kwek, G.\*, & **Sim, H. J.** (2025, July, 17-18). Addressing challenges of the Asian English pronunciation classroom: A consideration of sociophonetic variation [Oral presentation]. 2025 KATE International Conference, Seoul, Korea.
+
+**Sim, H. J.\***, & Jia Y. (2025, July, 25-27). Trading relations of acoustic cues in English stop voicing contrast among Chinese and Malay bilingual preschoolers in Singapore [Oral presentation]. International Association for World Englishes Conference 26 (IAWE26), Giessen, Germany.
 
 **Sim, J. H.\***, Schwarz, J., Li, K. K., Chong, A\*. (2025, June, 25-27). _Perceptual sensitivity to stress-based f0 in Singapore English_. [Oral presentation]. 6th Phonetics and Phonology in Europe (PAPE2025), Palma, Spain.
 
