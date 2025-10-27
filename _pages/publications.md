@@ -11,17 +11,17 @@ author_profile: false
 
 **Sim, J. H.** & Post, B. (2025). Systematicity in variability: English coda laterals of English-Malay bilinguals in multi-accent Singapore. OnlineFirst. _Language and Speech_. https://doi.org/10.1177/00238309251349201 [[paper]](https://doi.org/10.1177/00238309251349201) [[accepted manuscript]](/assets/documents/l&s_2025.pdf)
 
-**Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
+**Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_, _26_(3),631-647. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
 
-**Sim, J. H.** & Post, B. (2023). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. FirstView. _Journal of Child Language_. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
+**Sim, J. H.** & Post, B. (2024). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. FirstView. _Journal of Child Language_, _51_(6), 1290-1315. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
 
-Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
+**Sim, J. H.** (2023). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_, _52_(4), 617-644. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
 
-**Sim, J. H.** (2022). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
+Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_, _13_, 879156. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
-**Sim, J. H.** (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
+**Sim, J. H.** (2021). Sociophonetic variation in English /l/ in the child-directed speech of English-Malay bilinguals. _Journal of Phonetics_, _88_, 101084. https://doi.org/10.1016/j.wocn.2021.101084. [[paper]](https://doi.org/10.1016/j.wocn.2021.101084) [[accepted manuscript]](/assets/documents/jphon_2021.pdf)
 
-**Sim, J. H.** & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. FirstView. _Journal of Child Language_, _49_(6), 1147–1172. https://doi.org/10.1017/S0305000921000593 [[OA paper]](https://doi.org/10.1017/S0305000921000593)
+**Sim, J. H.** & Post, B. (2021). Variation in quality of maternal input and development of coda stops in English-speaking children in Singapore. _Journal of Child Language_, _49_(6), 1147–1172. https://doi.org/10.1017/S0305000921000593 [[OA paper]](https://doi.org/10.1017/S0305000921000593)
 
 **Sim, J. H.** (2019). “But you don’t sound Malay!” Language dominance and variation in the accents of English-Malay bilinguals in Singapore. _English World-Wide_, _40_(1), 79–108. https://doi.org/10.1075/eww.00023.sim. [[paper]](https://www.jbe-platform.com/content/journals/10.1075/eww.00023.sim) [[accepted manuscript]](https://www.researchgate.net/publication/330792385_But_you_don't_sound_Malay_Language_dominance_and_variation_in_the_accents_of_English-Malay_bilinguals_in_Singapore)
 
