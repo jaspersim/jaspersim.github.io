@@ -46,6 +46,8 @@ groups of educated Malay speakers of Singapore English. [Unpublished MPhil Thesi
 
 **\* Presenting author**
 
+**Sim, J. H.\***, Schwarz, J., Li, K. K., & Chong, A. J\*. (2025, May 16-18). Ethnic variation in perceptual sensitivity to stress-based f0 in Singapore English [Paper presentation]. Proceedings of the 3rd International Conference on Tone and Intonation (pp. 75-78), Herrsching, Germany. https://doi.org/10.21437/TAI.2025 [[paper]](/assets/documents/sim25_tai.pdf)
+
 Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., McDougall, K. (2022, 18–22 Sept). Recording and timing vocal responses in online experimentation [Paper presentation]. _Proc. Interspeech 2022_, 4053-4057, doi: 10.21437/Interspeech.2022-10697 [[paper]](/assets/documents/10697_Paper.pdf)
 
 **Sim, J. H.\*** (2023, 7–11 Aug). Influence of bilingualism or caregiver input? Variation in VOT in simultaneous bilingual preschoolers in Singapore [Oral presentation]. _Proceedings of the 20th International Congress of Phonetic Sciences_, 2344–2348. Guarant International. [[paper]](/assets/documents/icphs2023.pdf)
@@ -54,6 +56,12 @@ Li, K. K.\*, Schwarz, J., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post,
 ## Conference papers without proceedings
 
 **\* Presenting author**
+
+Sim, J. H. (2025, November 10-12). Understanding child bilingual phonological acquisition in multi-accent settings: Stop voicing contrasts in Singaporean Chinese and Malay Preschoolers. Paper presented at MAALIC 2025 (Malaysian Association of Applied Linguistics International Conference), Kuala Lumpur, Malaysia.
+
+**Sim, J. H.\***, Kwek, G., Nguyen, Li. (2025, October 29 – November 2). Quantifying Multilingualism and Ethnic Identity: Insights from Singapore. APERA-TERA 2025, Kaohsiung, Taiwan.
+
+Kwek, G.\*, & **Sim, J. H.** (2025, October 29 – November 2). Aligning Policy, Theory, and Practice: Reevaluating Pronunciation Teaching Practices in the Asian English Language Classroom. APERA-TERA 2025, Kaohsiung, Taiwan.
 
 Li, N.\*, & **Sim, J. H.** (2025, August 4-7). Variable subject expression in heritage Vietnamese [Oral presentation]. New Ways of Analysing Variation – Asia Pacific 8, Singapore.
 
