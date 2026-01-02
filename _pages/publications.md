@@ -9,13 +9,15 @@ author_profile: false
 
 (Please contact me for papers not available here.)
 
+Nguyen, L., **Sim, J. H.** (2026). Shifting rules across generations: Variable subject expression in the Canberra Vietnamese heritage language. FirstView. _Language Variation and Change_, 1-25. https://doi.org/10.1017/S0954394525100641 [[OA paper]](https://doi.org/10.1017/S0954394525100641)
+
 **Sim, J. H.** & Post, B. (2025). Systematicity in variability: English coda laterals of English-Malay bilinguals in multi-accent Singapore. OnlineFirst. _Language and Speech_. https://doi.org/10.1177/00238309251349201 [[paper]](https://doi.org/10.1177/00238309251349201) [[accepted manuscript]](/assets/documents/l&s_2025.pdf)
 
 **Sim, J. H.** (2024). Variation in VOT in English child-directed speech of English-Mandarin and English-Malay early bilinguals in Singapore. _Asian Englishes_, _26_(3),631-647. https://doi.org/10.1080/13488678.2024.2391234 [[paper]](https://doi.org/10.1080/13488678.2024.2391234) [[accepted manuscript]](/assets/documents/ae_2024.pdf)
 
-**Sim, J. H.** & Post, B. (2024). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. FirstView. _Journal of Child Language_, _51_(6), 1290-1315. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
+**Sim, J. H.** & Post, B. (2024). Influence of caregiver input and language experience on the production of coda laterals by English-Malay bilingual preschoolers in multi-accent Singapore. _Journal of Child Language_, _51_(6), 1290-1315. https://doi.org/10.1017/S0305000923000375 [[OA paper]](https://doi.org/10.1017/S0305000923000375)
 
-**Sim, J. H.** (2023). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. FirstView. _Language in Society_, _52_(4), 617-644. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
+**Sim, J. H.** (2023). Negotiating social meanings in a plural society: Social perceptions of variants of /l/ in Singapore English. _Language in Society_, _52_(4), 617-644. https://doi.org/10.1017/S0047404522000173 [[OA paper]](https://doi.org/10.1017/S0047404522000173)
 
 Schwarz, J., Li, K., **Sim, J. H.**, Zhang, Y., Buchanan-Worster, E., Post, B., Gibson, J., & McDougall, K. (2022). Semantic cues modulate children's and adults' processing of audio-visual face mask speech. _Frontiers in Psychology_, _13_, 879156. https://doi.org/10.3389/fpsyg.2022.879156 [[OA paper]](https://doi.org/10.3389/fpsyg.2022.879156)
 
